@@ -16,7 +16,7 @@
     "react-three-fiber": "^4.0.16",
     "react-use-gesture": "^7.0.4",
     "stats.js": "^0.17.0",
-    "three": "^0.113.2",
+    "three": "^0.137.0",
     "zustand": "^2.2.2"
   },
   "scripts": {
